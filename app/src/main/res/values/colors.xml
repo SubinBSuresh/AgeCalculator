@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!---Custom Colors-->
+    <color name="dark_blue">#293241</color>
+    <color name="background">#e0fbfc</color>
+    <color name="text_bg">#98c1d9</color>
+    <color name="button_accent">#ee6c4d</color>
+    <color name="text_color">#3d5a80</color>
 </resources>
